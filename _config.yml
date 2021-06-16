@@ -1,7 +1,8 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://dwsong07.github.io"
+url:            "https://dwsong07.github.io"a
+baseurl: "/"
 
 # Google Analytics
 # google_analytics: UA—XXXXXXXX-X
